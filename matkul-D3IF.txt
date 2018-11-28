@@ -1,0 +1,7 @@
+1. Literasi TIK
+2. Implementasi Algoritma
+3. Pengantar Desain Web
+4. Alat Bantu Desain Grafis
+5. Konfigurasi Perangkat Keras Komputer
+6. Logika Matematika
+7. Pendidikan Agama Islam
